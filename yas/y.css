@@ -34,7 +34,7 @@ h1{
     padding-top: 90px;
 }
 .clo
-{padding-top: 40px;
+{padding-top: 10px;
    position:absolute;
    right:190px;
    
@@ -43,8 +43,8 @@ h1{
 .clo1
 {
    position:absolute;
-   left:120px;
-   top:180px
+   left:60px;
+   top:290px
    
 }
 .write
@@ -65,7 +65,7 @@ color:#854777;
 .pro
 {
     position: relative;
-    left:40px;
+    left:0px;
 }
 
 .skills
@@ -93,6 +93,7 @@ color:#854777;
 }
 .profile
 {
+    align:center;
     font-family: 'Gloria Hallelujah', cursive;  
     color:#854777;
 }
@@ -147,13 +148,13 @@ hr
   .mail
   {
       position: relative;
-      left:120px;
-      bottom:30px;
+      left:68px;
+      bottom:40px;
   }
   .pip
   {
       position: relative;
       bottom:25px;
-      right:40px;
+      right:0px;
   }
- 
+
